@@ -1,0 +1,11 @@
+{
+  "name": "n01-player-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/N0ise1ess/N01-player-backend.git",
+  "author": "Vaagn Avanesyan <vahagn1993@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@nestjs/cli": "^5.7.1"
+  }
+}
